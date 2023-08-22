@@ -1,4 +1,4 @@
-adding changes before rebasing conflicts
-Test github quick start demo.
+silly conflict changes before rebasing conflicts
+Test gitclient quick start demo.
 and added one more line
-Ilyas Abbasi ilyas.abbasi@gmail.com
+Alyas Abbasi Alyas.abbasi@gmail.com
